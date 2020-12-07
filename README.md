@@ -23,7 +23,8 @@ The Data Mining Specialization teaches data mining techniques for both structure
 
 Courses 2 - 5 of this Specialization form the lecture component of courses in the online Master of Computer Science Degree in Data Science. You can apply to the degree program either before or after you begin the Specialization.
 
-# John C. Hart
+# Instructors
+John C. Hart
 - Professor of Computer Science
 - Department of Computer Science
 
